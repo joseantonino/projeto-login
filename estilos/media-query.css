@@ -31,7 +31,13 @@ Grandes telas: acima de 1200px */
     div#formulario > p   {
         font-size: 1em;
     }
+
+    .class  {
+        size: 10px;
+    }
 }
+
+
 
 @media screen and (min-width: 992px)   {
 
@@ -57,5 +63,6 @@ Grandes telas: acima de 1200px */
     div#formulario > p   {
         font-size: 1.2em;
     }
+    
 }
     
